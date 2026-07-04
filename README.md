@@ -83,11 +83,11 @@ g++ -std=c++17 -O2 -o proj2 projeto2.cpp
 .
 ├── projeto1.cpp   # Project 1 — staircase tiling (backtracking)
 ├── projeto2.cpp   # Project 2 — maximum spanning forest (Kruskal + Union-Find)
-├── p1.pdf         # Project 1 assignment (Portuguese)
-├── p2.pdf         # Project 2 assignment (Portuguese)
+├── p1.pdf         # Project 1 assignment (pt)
+├── p2.pdf         # Project 2 assignment (pt)
 └── README.md
 ```
 
 ## Authors
 
-A two-person group project — José António Lopes (103938) and Rodrigo Friães (104139).
+José António Lopes (103938) and Rodrigo Friães (104139).
